@@ -62,6 +62,6 @@ platform = auto
 estimator_config = 
 auto_dump_default_config = false
 estimator_timeout = 600
-enable_auto_analysis = false
-enable_estimator_updates = false
+enable_auto_analysis = true
+enable_estimator_updates = true
 
